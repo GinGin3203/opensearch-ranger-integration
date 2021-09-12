@@ -1,0 +1,6 @@
+[submodule "security"]
+	path = security
+	url = https://github.com/coMMoN-Coolteam/security
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/coMMoN-Coolteam/ranger
